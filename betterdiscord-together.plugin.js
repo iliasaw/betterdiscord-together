@@ -47,8 +47,8 @@ const config = {
     name: "BetterDiscord-Together",
     authors: [
       {
-        name: "kikots",
-        discord_id: "487773012481933314",
+        name: "Joper",
+        discord_id: "833957508979752960",
       },
     ],
     version: "1.0.0",
